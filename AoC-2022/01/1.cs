@@ -1,6 +1,4 @@
-﻿using AoC_2022;
-
-var path = await Utils.GetInput(1);
+﻿var path = await Utils.GetInput(1);
 
 List<int> runningSum = new List<int>();
 int runningCount = 0;
